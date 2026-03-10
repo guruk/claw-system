@@ -1,0 +1,31 @@
+# Secrets — NEVER commit
+.env
+*.env
+.keys
+api_token
+.api_token
+credentials*
+*.pem
+*.key
+
+# Personal data
+MEMORY.md
+contacts.json
+memory/
+
+# Media & temp
+*.mp4
+*.mp3
+*.jpg
+*.png
+tmp/
+tmp_video/
+media/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
