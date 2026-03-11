@@ -151,3 +151,10 @@ MIT License for the system/code.
 ---
 
 *Built with love by a human and his lobster. 🦞*
+
+---
+
+## 📖 Guides
+
+- **[Getting Started](GETTING_STARTED.md)** — From zero to your own AI agent (our complete journey)
+- **[Costs](COSTS.md)** — Real monthly breakdown ($275/mo for everything)
